@@ -2,9 +2,9 @@
 
 Are vision-language models (VLMs) open-set models because they are trained on internet-scale datasets? No - VLMs introduce closed-set assumptions via their finite query set, making them vulnerable to open-set conditions. 
 
-![Image description](images/githubdisplay.png)
+![Image description](displayfig.jpg)
 
-This repository willl *soon* contain the benchmark evaluation code from the paper:
+This repository willl **soon** contain the benchmark evaluation code from the paper:
 
 **Open-Set Recognition in the Age of Vision-Language Models**
 
