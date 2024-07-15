@@ -12,7 +12,7 @@ This repository willl **soon** contain the benchmark evaluation code from the pa
 
 To appear at the 2024 European Conference on Computer Vision (ECCV).
 
-[Preprint]([https://openaccess.thecvf.com/content/WACV2021/papers/Miller_Class_Anchor_Clustering_A_Loss_for_Distance-Based_Open_Set_Recognition_WACV_2021_paper.pdf](https://arxiv.org/pdf/2403.16528))
+[Click here to access the preprint.](https://arxiv.org/pdf/2403.16528)
 
 If you use this work, please cite:
 
