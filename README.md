@@ -2,7 +2,7 @@
 
 This is the official benchmark code for the ECCV2024 paper [**Open-Set Recognition in the Age of Vision-Language Models**](https://arxiv.org/pdf/2403.16528).
 
-![Image description](displayfig.jpg)
+![Image description](figs/displayfig.jpg)
 
 If you use this work, please cite:
 
@@ -23,8 +23,8 @@ If you have any questions or comments, please contact [Dimity Miller](mailto:d24
 
 Please navigate to the *classification* or *detection* folder to see the evaluation scripts for their respective experiments in the paper. 
 
-* [Open-Set Classification](https://github.com/dimitymiller/openset_vlms/classification)
-* [Open-Set Object Detection](https://github.com/dimitymiller/openset_vlms/detection)
+* [Open-Set Classification](https://github.com/dimitymiller/openset_vlms/tree/main/classification)
+* [Open-Set Object Detection](https://github.com/dimitymiller/openset_vlms/tree/main/detection)
 
 ## Installation
 
