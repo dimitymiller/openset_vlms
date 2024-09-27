@@ -2,6 +2,8 @@
 
 Here we briefly outline how to use this repository to reproduce the object detection results in the paper, as well as how to test new open vocabulary object detectors.
 
+**Note: This is the first push of code related to the paper and will allow you to reproduce the results in the paper. An updated version of the code that is easier to interface your own methods with will be available by November.**
+
 ## Testing Protocol
 For testing on COCO, we provide ```test_protocol/coco_image_labels.json``` to detail the class text labels to test each image with. It has the following format:
 ```
