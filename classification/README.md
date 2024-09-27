@@ -2,6 +2,8 @@
 
 Here we briefly outline how to use this repository to reproduce the results in the paper.
 
+**Note: This is the first push of code related to the paper and will allow you to reproduce the results in the paper. An updated version of the code that is easier to interface your own methods with will be available by November.**
+
 ## Running experiments and saving raw results
 See **test_clip.ipynb**, **test_align.ipynb** and **test_imagebind.ipynb**
 
