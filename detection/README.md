@@ -84,4 +84,4 @@ To use the evaluation script, you should save the predictions from a detector as
 ## Visualise and create plots for the results (Figure 4, Figure 5b)
 See **scripts/create_plots.ipynb** 
 
-Setup to work with our saved results found in *scripts/detector_results_processed_json*
+Setup to work with our saved results found in *scripts/detector_results_processed.json*
