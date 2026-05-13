@@ -7,11 +7,13 @@ This is the official benchmark code for the ECCV2024 paper [**Open-Set Recogniti
 If you use this work, please cite:
 
 ```text
-@article{miller2024open,
-  title={Open-Set Recognition in the Age of Vision-Language Models},
+@inproceedings{miller2024open,
+  title={Open-set recognition in the age of vision-language models},
   author={Miller, Dimity and S{\"u}nderhauf, Niko and Kenna, Alex and Mason, Keita},
-  journal={arXiv preprint arXiv:2403.16528},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={1--18},
+  year={2024},
+  organization={Springer}
 }
 ```
 
